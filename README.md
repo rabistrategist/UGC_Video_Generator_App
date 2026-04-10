@@ -1,10 +1,11 @@
-# AI Text-to-Video Generator
+# UGC Video Generation Application
 
 A sleek, modern Next.js web application that connects to a Google Colab GPU backend to generate and stream AI videos directly to your browser. 
 
 Inspired by professional creator tools (like Adobe Firefly), this interface features a clean, dark-mode aesthetic with interactive states, real-time fetching, and a reliable Server Action backend designed to handle long-running ML generation tasks seamlessly.
 
-![UI Concept](https://images.unsplash.com/photo-1514565131-fce0801e5785?q=80&w=2070&auto=format&fit=crop)
+## Project Demo:  https://github.com/user-attachments/assets/b0e0b0c9-f5a3-4ceb-826e-db6b0442fc7a
+
 
 ## ✨ Features
 
